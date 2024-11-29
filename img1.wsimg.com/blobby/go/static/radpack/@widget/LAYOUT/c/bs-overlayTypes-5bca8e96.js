@@ -1,0 +1,2 @@
+define("@widget/LAYOUT/c/bs-overlayTypes-5bca8e96.js",["exports"],(function(e){"use strict";const{headerTreatments:{FILL:o,FIT:a,INSET:n,BLUR:t,LEGACY_BLUR:c,WIDE_INSET:d}}=(global.Core||guac["@wsb/guac-widget-core"]).constants;e.A="accent",e.B=t,e.C="category",e.F=o,e.I="Image",e.L=c,e.N="neutral",e.P="primary",e.S="Slideshow",e.V="Video",e.W=d,e.a="none",e.b=a,e.c=n,e.d="light_dark"})),"undefined"!=typeof window&&(window.global=window);
+//# sourceMappingURL=bs-overlayTypes-5bca8e96.js.map
